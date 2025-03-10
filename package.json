@@ -1,0 +1,19 @@
+{
+  "name": "rocketseat-fullstack-portfolio-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://peterhfss.github.io/rocketseat-full-stack-portfolio-dev",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "phosphor-icons": "^1.4.2"
+  }
+}
